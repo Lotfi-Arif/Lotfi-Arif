@@ -36,20 +36,19 @@
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
-[//]: # (### ⚙️ &nbsp;GitHub Analytics)
+---
 
-[//]: # ()
-[//]: # (<p align="center">)
+### :fire: My Stats :
 
-[//]: # (<a href="https://github.com/AVS1508">)
+[![Lotfi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lotfi-Arif&show_icons=true)](https://github.com/Lotfi-Arif)
 
-[//]: # (  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lotfi-Arif&layout=compact)](https://github.com/Lotfi-Arif)
 
-[//]: # (  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>)
+[![Lotfi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LotfiArif)](https://github.com/Lotfi-Arif)
 
-[//]: # (</a>)
+[![Lotfi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lotfi-Arif)](https://github.com/Lotfi-Arif)
 
-[//]: # (</p>)
+---
 
 ### 🤝🏻 &nbsp;Connect with Me
 
@@ -60,4 +59,3 @@
 <a href="https://www.instagram.com/dova.luffy/"><img src="https://img.shields.io/badge/-@dova.luffy-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/LotfiAnwarArif/"><img src="https://img.shields.io/badge/-@LotfiAnwarArif-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
-
