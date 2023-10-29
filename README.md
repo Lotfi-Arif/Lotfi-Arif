@@ -44,8 +44,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lotfi-Arif&layout=compact)](https://github.com/Lotfi-Arif)
 
-[![Lotfi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LotfiArif)](https://github.com/Lotfi-Arif)
-
 [![Lotfi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lotfi-Arif)](https://github.com/Lotfi-Arif)
 
 ---
