@@ -4,13 +4,13 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science (Software Engineering) at the University of Technology Malaysia.\
-🌱 &nbsp;I'm on track for learning more about Systems Design, and Cloud Architecture.\
-🎮 &nbsp;In my free time, I unwind by playing games with friends.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at Lutfi.arif2799@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.lotfiarif.com/work) for more details about me. I'm open to feedback and suggestions!
+💡 &nbsp;Exploring new technologies and building software solutions.\
+🎓 &nbsp;Studied Computer Science (Software Engineering) at the University of Technology Malaysia.\
+🌱 &nbsp;Expanding knowledge in Systems Design and Cloud Architecture.\
+🎮 &nbsp;Enjoy gaming with friends to unwind.\
+💬 &nbsp;Open to discussing new tech, offering pro bono consulting, or just chatting.\
+✉️ &nbsp;Reach me at Lutfi.arif2799@gmail.com! I'll try to respond as soon as I can.\
+📄 &nbsp;Check my [Résumé](https://www.lotfiarif.com/work) for more about me. Feedback welcome!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -34,11 +34,10 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
 ---
 
-### :fire: My Stats :
+### :fire: My Stats
 
 [![Lotfi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lotfi-Arif&show_icons=true)](https://github.com/Lotfi-Arif)
 
