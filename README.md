@@ -13,4 +13,4 @@
 ### 🤝 Connect
 <a href="https://www.lotfiarif.com"><img src="https://img.shields.io/badge/-LotfiArif.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/lotfiarif"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:lutfi.arif2799@gmail.com"><img src="https://img.shields.io/badge/-lutfi.arif2799@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:lutfi.arif2799@gmail.com"><img src="https://img.shields.io/badge/-lotfi.arif@pm.me-D14836?style=flat&logo=Proton&logoColor=white"/></a>
