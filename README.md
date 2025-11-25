@@ -13,6 +13,6 @@
 - Platforms & Infra: Temporal, Kubernetes, Docker
 
 ### 🤝 Connect
-<a href="https://www.lotfiarif.com"><img src="https://img.shields.io/badge/-LotfiArif.com-3423A6?style=for-the-badge&logo=Brave&logoColor=white"/></a>
+<a href="https://www.lotfiarif.dev"><img src="https://img.shields.io/badge/-LotfiArif.com-3423A6?style=for-the-badge&logo=Brave&logoColor=white"/></a>
 <a href="https://linkedin.com/in/lotfiarif"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:lotfi.arif@pm.me"><img src="https://img.shields.io/badge/-lotfi.arif@pm.me-D14836?style=for-the-badge&logo=Proton&logoColor=white"/></a>
